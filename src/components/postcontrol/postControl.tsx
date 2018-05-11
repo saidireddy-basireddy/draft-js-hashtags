@@ -22,7 +22,7 @@ export class PostControl extends React.Component<{}, {}> {
   }
 
   render() {       
-    let title = "DraftJS - hashtags";
+    let title = "Draft-JS - hashtags";
     return (
       <div >       
           <h1 className={styles.appTitle}>{title}</h1>       
